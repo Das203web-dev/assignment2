@@ -1,0 +1,263 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.sec1 {
+    border-radius: 50%;
+    background: linear-gradient(145deg, #ffffff, #e6e6e6);
+    box-shadow: 50px 50px 100px #666666,
+        -50px -50px 100px #ffffff;
+}
+
+.sec1-main-div1 {
+    display: flex;
+}
+
+.div1 {
+    width: 50%;
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+
+h1 {
+    font-size: 50px;
+    border-left: 4px solid red;
+    border-radius: 4px;
+    padding-left: 5px;
+}
+
+span {
+    color: orange;
+}
+
+.firstimg {
+    max-height: 450px;
+    width: 450px;
+    border-radius: 800px;
+    margin-left: 2in;
+}
+
+p {
+    text-align: justify;
+    margin: 30px 0px;
+}
+
+a {
+    background-image: linear-gradient(red, black);
+    border-radius: 10px;
+    padding: 15px 25px;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.sec2 {
+    border-radius: 109px;
+    background: linear-gradient(145deg, #e6e6e6, #ffffff);
+    box-shadow: 39px 39px 78px #9e9e9e,
+        -39px -39px 78px #ffffff;
+    margin-bottom: 100px;
+}
+
+.sec2-h1 {
+    font-size: 50px;
+    text-align: center;
+    font-weight: bolder;
+
+}
+
+.sec2-div1 {
+    background: rgba(252, 252, 253, 0.875);
+    width: 30%;
+    padding: 20px;
+    margin-left: 1.33%;
+    margin-right: 1.33%;
+    text-align: left;
+    box-shadow: 0px 10px #e96767;
+    border: 2px solid #666666;
+    border-radius: 40px;
+}
+
+#div2-sec2 {
+    background: rgba(212, 212, 234, 0.914);
+
+}
+
+#div3-sec2 {
+    background: rgba(164, 164, 168, 0.834);
+}
+
+#sec2-img {
+    width: 100px;
+}
+
+.sec3 {
+    border-radius: 50%;
+    background: linear-gradient(145deg, #ffffff, #e6e6e6);
+    box-shadow: 50px 50px 100px #666666,
+        -50px -50px 100px #ffffffd3;
+    margin-bottom: 100px;
+}
+
+.sec3-h2 {
+    font-size: 50px;
+    font-weight: bolder;
+    padding-left: 1in;
+}
+
+.sec3-p1 {
+    text-align: justify;
+    padding-right: 2in;
+    padding-left: 1in;
+}
+
+.secondimg {
+    max-height: 450px;
+    width: 450px;
+    border-radius: 80px;
+    margin-left: 1in;
+    border: 5px solid #666666;
+}
+
+.sec3-a {
+    margin-left: 1in;
+
+}
+
+.sec4 {
+    border-radius: 109px;
+    background: linear-gradient(145deg, #e6e6e6, #ffffff);
+    box-shadow: 39px 39px 78px #9e9e9e,
+        -39px -39px 78px #ffffff;
+    margin-bottom: 100px;
+}
+
+.sec4-h2 {
+    font-size: 50px;
+    font-weight: bolder;
+    padding-left: 5px;
+}
+
+#sec4-para {
+    padding-left: 5px;
+}
+
+.thirdimg {
+    max-height: 450px;
+    width: 450px;
+    border-radius: 800px;
+    margin-left: 2in;
+}
+
+.sec5 {
+    border-radius: 50%;
+    background: linear-gradient(145deg, #ffffff, #e6e6e6);
+    box-shadow: 50px 50px 100px #666666,
+        -50px -50px 100px #ffffffd3;
+    margin-bottom: 100px;
+
+
+}
+
+.sec5-h2 {
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.fourthimg {
+    max-height: 450px;
+    width: 500px;
+    border-radius: 200px;
+    margin-left: 2in;
+}
+
+#form-label {
+    margin: 5px;
+    padding: 5px;
+    color: orange;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.form-input {
+    margin: 15px 0px 5px 15px;
+    padding: 10px;
+    color: orange;
+    font-size: 15px;
+    font-weight: 700;
+    text-align: justify;
+    font-display: inline;
+
+}
+
+.form {
+    font-weight: 700;
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+.sec5-h3 {
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: left;
+}
+
+.sec5-p1 {
+    padding-right: 1in;
+}
+
+footer {
+    background: black;
+}
+
+#footer-h3 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: #ffffff;
+    padding-top: 25px;
+}
+
+.footer-p {
+    color: rgba(255, 255, 255, 0.588);
+    text-align: center;
+    font-size: small;
+    padding-bottom: 15px;
+}
+
+.facebook {
+    background: blue;
+
+    color: white;
+    margin: 0px 10px 10px;
+}
+
+.footer-center {
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.twitter {
+    background: white;
+    color: blue;
+    margin: 0px 20px 0px 20px;
+
+}
+
+.bdjobs {
+    padding: 20px;
+    color: tomato;
+    background-image: red green blue yellow;
+    border-radius: 30px;
+}
+
+a:hover {
+    color: rgb(232, 73, 0);
+
+}
